@@ -52,6 +52,7 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 * [Eshan Vohra](https://github.com/eshanvohra) is currently doing this challenge. Check out my repo [here](https://github.com/eshanvohra/JavaScript30).
 * [RegusAl](https://github.com/RegusAl) is currently doing this challenge. Check out my repo [here](https://github.com/RegusAl/JavaScript30).
 * [Ayush Gupta's](https://javascript30.ayushgupta.tech/) implementation of JavaScript30 challenge with some add-ons & updated design.
+* [Utkarsh Mishra](https://github.com/Utkarsh1504/JavaScript30.github.io)
 
 
 ## Alternative Implementations
